@@ -16,12 +16,12 @@ Various preprocessing techniques were applied, including under-sampling and over
 **Machine Learning Models Used
 Initial Testing on Unbalanced Data:**
 
-**Decision Tree Classifier
+**Decision Tree Classifier**
 
-Logistic Regression
+**Logistic Regression**
 
-Random Forest Classifier
-**
+**Random Forest Classifier**
+
 **Handling Imbalanced Data:**
 
 **Under-sampling:** Reducing the majority class instances to match the minority class.
