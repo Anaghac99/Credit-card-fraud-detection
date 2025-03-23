@@ -1,8 +1,14 @@
 Credit Card Fraud Detection Using Machine Learning
+
+
 Project Overview
+
+
 The objective of this project was to develop an efficient machine learning model for detecting fraudulent credit card transactions. Given the highly imbalanced nature of fraud datasets, the project involved addressing class imbalance and testing multiple machine learning algorithms to identify the most effective approach.
 
 Data Characteristics
+
+
 The dataset was highly imbalanced, with fraudulent transactions being significantly fewer than legitimate ones.
 
 Various preprocessing techniques were applied, including under-sampling and over-sampling to balance the dataset.
